@@ -1,3 +1,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/Helga27/serverlessons.git
+[submodule "site"]
+	path = site
+	url = https://github.com/Helga27/gitlessonsjava2020.git
